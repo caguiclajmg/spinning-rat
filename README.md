@@ -1,5 +1,7 @@
 # Spinning Rat
 
+https://hakos.baelz.stream
+
 Vanilla JS because rats don't need frameworks.
 
 Return to ~~monke~~ rat.

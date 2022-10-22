@@ -65,7 +65,7 @@
       <div>
         <span id="model-chibi" class="highlight-on-hover selected">Chibi</span>
         <span id="model-rat" class="highlight-on-hover">Rat</span>
-        <span id="model-pixel" class="highlight-on-hover">Pixel</span>
+        <span id="model-council" class="highlight-on-hover">Council</span>
       </div>
     </div>
   </div>
@@ -204,11 +204,11 @@
 
     const buttonModelChibi = document.getElementById('model-chibi');
     const buttonModelRat = document.getElementById('model-rat');
-    const buttonModelPixel = document.getElementById('model-pixel');
+    const buttonModelCouncil = document.getElementById('model-council');
     const buttonModels = [
       buttonModelChibi,
       buttonModelRat,
-      buttonModelPixel
+      buttonModelCouncil
     ];
 
     buttonModelChibi.addEventListener('click', e => {
@@ -251,7 +251,7 @@
       }, null, console.error);
     });
 
-    buttonModelPixel.addEventListener('click', e => {
+    buttonModelCouncil.addEventListener('click', e => {
       buttonModels.forEach(btn => btn.classList.remove('selected'));
       e.target.classList.add('selected');
 

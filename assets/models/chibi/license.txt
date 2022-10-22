@@ -1,0 +1,11 @@
+Model Information:
+* title:	[Hololive EN] 3D Chibi Baelz
+* source:	https://sketchfab.com/3d-models/hololive-en-3d-chibi-baelz-bb25b483f6f54fa4906b4e3193d0261b
+* author:	Welloy (https://sketchfab.com/hiwelloy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[Hololive EN] 3D Chibi Baelz" (https://sketchfab.com/3d-models/hololive-en-3d-chibi-baelz-bb25b483f6f54fa4906b4e3193d0261b) by Welloy (https://sketchfab.com/hiwelloy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
